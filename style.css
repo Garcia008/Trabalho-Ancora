@@ -1,20 +1,4 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  scroll-behavior: smooth;
-}
-
-body {
-  font-family: 'Roboto', sans-serif;
-  background-color: #f5f7fa;
-  color: #333;
-  line-height: 1.6;
-}
-
-header {
-  position: fixed;
-  top: 0;
-  width: 100%;
-  background-color: rgb(150, 142, 158);
-}
+.btn-github {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 12px}
